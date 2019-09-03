@@ -1,7 +1,7 @@
 {
   "name": "@ladjs/mongoose-error-messages",
   "description": "Better error messages for Mongoose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com)",
   "bugs": {
     "url": "https://github.com/ladjs/mongoose-error-messages/issues",
